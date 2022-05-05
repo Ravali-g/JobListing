@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/careers-portal-new.iml" filepath="$PROJECT_DIR$/.idea/modules/careers-portal-new.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/careers-portal-contract/careers-portal-new.careers-portal-contract.iml" filepath="$PROJECT_DIR$/.idea/modules/careers-portal-contract/careers-portal-new.careers-portal-contract.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/careers-portal-contract/careers-portal-new.careers-portal-contract.main.iml" filepath="$PROJECT_DIR$/.idea/modules/careers-portal-contract/careers-portal-new.careers-portal-contract.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/careers-portal-contract/careers-portal-new.careers-portal-contract.test.iml" filepath="$PROJECT_DIR$/.idea/modules/careers-portal-contract/careers-portal-new.careers-portal-contract.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/careers-portal-service/careers-portal-new.careers-portal-service.iml" filepath="$PROJECT_DIR$/.idea/modules/careers-portal-service/careers-portal-new.careers-portal-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/careers-portal-service/careers-portal-new.careers-portal-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/careers-portal-service/careers-portal-new.careers-portal-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/careers-portal-service/careers-portal-new.careers-portal-service.test.iml" filepath="$PROJECT_DIR$/.idea/modules/careers-portal-service/careers-portal-new.careers-portal-service.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/careers-portal-new.main.iml" filepath="$PROJECT_DIR$/.idea/modules/careers-portal-new.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/careers-portal-new.test.iml" filepath="$PROJECT_DIR$/.idea/modules/careers-portal-new.test.iml" />
+    </modules>
+  </component>
+</project>
