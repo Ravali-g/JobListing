@@ -1,0 +1,187 @@
+2022-05-18 01:06:03,416 DEBUG c.m.c.c.JobListingController [http-nio-8080-exec-1] inside getAllJobs() 
+2022-05-18 01:06:03,417 DEBUG c.m.c.s.JobListingService [http-nio-8080-exec-1] inside getAllJobListing
+2022-05-18 01:06:19,507 DEBUG c.m.c.c.JobListingController [http-nio-8080-exec-3] inside findJobListingByLocation()
+2022-05-18 01:06:19,508 DEBUG c.m.c.s.JobListingService [http-nio-8080-exec-3] Inside findJobListingByLocation()
+2022-05-18 01:16:55,911 DEBUG c.m.c.c.JobListingController [http-nio-8080-exec-1] inside getAllJobs() 
+2022-05-18 01:16:55,912 DEBUG c.m.c.s.JobListingService [http-nio-8080-exec-1] inside getAllJobListing
+2022-05-18 01:17:16,361 DEBUG c.m.c.c.JobListingController [http-nio-8080-exec-3] inside findJobListingById()
+2022-05-18 01:17:16,362 DEBUG c.m.c.s.JobListingService [http-nio-8080-exec-3] inside findJobListingById
+2022-05-18 01:23:49,545 DEBUG c.m.c.c.JobListingController [http-nio-8080-exec-1] inside getAllJobs() 
+2022-05-18 01:23:49,546 DEBUG c.m.c.s.JobListingService [http-nio-8080-exec-1] inside getAllJobListing
+2022-05-18 01:57:46,811 DEBUG c.m.c.c.JobListingController [http-nio-8080-exec-2] inside getAllJobs() 
+2022-05-18 01:57:46,812 DEBUG c.m.c.s.JobListingService [http-nio-8080-exec-2] inside getAllJobListing
+2022-05-18 01:57:54,561 DEBUG c.m.c.c.JobListingController [http-nio-8080-exec-3] inside createJobListing()
+2022-05-18 01:57:54,561 DEBUG c.m.c.s.JobListingService [http-nio-8080-exec-3] inside createNewJobListing
+2022-05-18 01:58:14,598 DEBUG c.m.c.c.JobListingController [http-nio-8080-exec-4] inside updateJobListing()
+2022-05-18 01:58:14,600 DEBUG c.m.c.s.JobListingService [http-nio-8080-exec-4] inside updateJobListing()
+2022-05-18 01:58:25,045 DEBUG c.m.c.c.JobListingController [http-nio-8080-exec-5] inside updateJobListing()
+2022-05-18 01:58:25,046 DEBUG c.m.c.s.JobListingService [http-nio-8080-exec-5] inside updateJobListing()
+2022-05-18 01:58:42,047 DEBUG c.m.c.c.JobListingController [http-nio-8080-exec-6] inside findJobListingById()
+2022-05-18 01:58:42,047 DEBUG c.m.c.s.JobListingService [http-nio-8080-exec-6] inside findJobListingById
+2022-05-18 01:58:53,680 DEBUG c.m.c.c.JobListingController [http-nio-8080-exec-7] inside getAllJobs() 
+2022-05-18 01:58:53,681 DEBUG c.m.c.s.JobListingService [http-nio-8080-exec-7] inside getAllJobListing
+2022-05-18 01:58:59,480 DEBUG c.m.c.c.JobListingController [http-nio-8080-exec-8] inside getAllJobs() 
+2022-05-18 01:58:59,483 DEBUG c.m.c.s.JobListingService [http-nio-8080-exec-8] inside getAllJobListing
+2022-05-18 01:59:13,108 DEBUG c.m.c.c.JobListingController [http-nio-8080-exec-9] inside getAllJobs() 
+2022-05-18 01:59:13,109 DEBUG c.m.c.s.JobListingService [http-nio-8080-exec-9] inside getAllJobListing
+2022-05-18 02:02:56,087 DEBUG c.m.c.c.JobListingController [http-nio-8080-exec-3] inside getAllJobs() 
+2022-05-18 02:02:56,088 DEBUG c.m.c.s.JobListingService [http-nio-8080-exec-3] inside getAllJobListing
+2022-05-18 02:03:02,898 DEBUG c.m.c.c.JobListingController [http-nio-8080-exec-2] inside getAllJobs() 
+2022-05-18 02:03:02,899 DEBUG c.m.c.s.JobListingService [http-nio-8080-exec-2] inside getAllJobListing
+2022-05-18 02:03:54,693 DEBUG c.m.c.c.JobListingController [http-nio-8080-exec-2] inside getAllJobs() 
+2022-05-18 02:03:54,698 DEBUG c.m.c.s.JobListingService [http-nio-8080-exec-2] inside getAllJobListing
+2022-05-18 02:03:59,445 DEBUG c.m.c.c.JobListingController [http-nio-8080-exec-3] inside getAllJobs() 
+2022-05-18 02:03:59,445 DEBUG c.m.c.s.JobListingService [http-nio-8080-exec-3] inside getAllJobListing
+2022-05-18 02:07:10,958 DEBUG c.m.c.c.JobListingController [http-nio-8080-exec-4] inside findJobListingByLocation()
+2022-05-18 02:07:10,961 DEBUG c.m.c.s.JobListingService [http-nio-8080-exec-4] Inside findJobListingByLocation()
+2022-05-18 02:07:15,889 DEBUG c.m.c.c.JobListingController [http-nio-8080-exec-6] inside findJobListingByLocation()
+2022-05-18 02:07:15,890 DEBUG c.m.c.s.JobListingService [http-nio-8080-exec-6] Inside findJobListingByLocation()
+2022-05-18 02:22:19,193 DEBUG c.m.c.c.JobListingController [http-nio-8080-exec-1] inside findJobListingByLocation()
+2022-05-18 02:22:19,195 DEBUG c.m.c.s.JobListingService [http-nio-8080-exec-1] Inside findJobListingByLocation()
+2022-05-18 02:22:19,374 DEBUG c.m.c.s.JobListingService [http-nio-8080-exec-1] Inside findJobListingByLocation()
+2022-05-18 02:27:13,309 DEBUG c.m.c.c.JobListingController [http-nio-8080-exec-1] inside getAllJobs() 
+2022-05-18 02:27:13,310 DEBUG c.m.c.s.JobListingService [http-nio-8080-exec-1] inside getAllJobListing
+2022-05-18 02:27:13,391 DEBUG c.m.c.s.JobListingService [http-nio-8080-exec-1] Inside findJobListingByLocation()
+2022-05-18 02:27:23,016 DEBUG c.m.c.c.JobListingController [http-nio-8080-exec-3] inside getAllJobs() 
+2022-05-18 02:27:23,016 DEBUG c.m.c.s.JobListingService [http-nio-8080-exec-3] inside getAllJobListing
+2022-05-18 02:27:23,102 DEBUG c.m.c.s.JobListingService [http-nio-8080-exec-3] Inside findJobListingByLocation()
+2022-05-18 02:29:11,077 DEBUG c.m.c.c.JobListingController [http-nio-8080-exec-2] inside getAllJobs() 
+2022-05-18 02:29:11,079 DEBUG c.m.c.s.JobListingService [http-nio-8080-exec-2] inside getAllJobListing
+2022-05-18 02:29:11,310 DEBUG c.m.c.s.JobListingService [http-nio-8080-exec-2] Inside findJobListingByLocation()
+2022-05-18 02:30:05,965 DEBUG c.m.c.c.JobListingController [http-nio-8080-exec-3] inside findJobListingById()
+2022-05-18 02:30:05,965 DEBUG c.m.c.s.JobListingService [http-nio-8080-exec-3] inside findJobListingById
+2022-05-18 02:30:13,623 DEBUG c.m.c.c.JobListingController [http-nio-8080-exec-4] inside findJobListingById()
+2022-05-18 02:30:13,625 DEBUG c.m.c.s.JobListingService [http-nio-8080-exec-4] inside findJobListingById
+2022-05-18 11:17:28,132 DEBUG c.m.c.c.JobListingController [http-nio-8080-exec-1] inside updateJobListing()
+2022-05-18 11:17:28,137 DEBUG c.m.c.s.JobListingService [http-nio-8080-exec-1] inside updateJobListing()
+2022-05-18 11:26:54,335 DEBUG c.m.c.c.JobListingController [http-nio-8080-exec-5] inside updateJobListing()
+2022-05-18 11:26:54,337 DEBUG c.m.c.s.JobListingService [http-nio-8080-exec-5] inside updateJobListing()
+2022-05-18 11:27:02,470 DEBUG c.m.c.c.JobListingController [http-nio-8080-exec-6] inside findJobListingById()
+2022-05-18 11:27:02,472 DEBUG c.m.c.s.JobListingService [http-nio-8080-exec-6] inside findJobListingById
+2022-05-18 11:29:21,264 DEBUG c.m.c.c.JobListingController [http-nio-8080-exec-1] inside updateJobListing()
+2022-05-18 11:29:21,266 DEBUG c.m.c.s.JobListingService [http-nio-8080-exec-1] inside updateJobListing()
+2022-05-18 11:29:25,304 DEBUG c.m.c.c.JobListingController [http-nio-8080-exec-3] inside findJobListingById()
+2022-05-18 11:29:25,305 DEBUG c.m.c.s.JobListingService [http-nio-8080-exec-3] inside findJobListingById
+2022-05-18 11:31:27,142 DEBUG c.m.c.c.JobListingController [http-nio-8080-exec-2] inside updateJobListing()
+2022-05-18 11:31:27,143 DEBUG c.m.c.s.JobListingService [http-nio-8080-exec-2] inside updateJobListing()
+2022-05-18 11:32:23,210 DEBUG c.m.c.c.JobListingController [http-nio-8080-exec-1] inside updateJobListing()
+2022-05-18 11:32:23,211 DEBUG c.m.c.s.JobListingService [http-nio-8080-exec-1] inside updateJobListing()
+2022-05-18 11:33:24,197 DEBUG c.m.c.c.JobListingController [http-nio-8080-exec-2] inside updateJobListing()
+2022-05-18 11:33:24,199 DEBUG c.m.c.s.JobListingService [http-nio-8080-exec-2] inside updateJobListing()
+2022-05-18 11:38:58,101 DEBUG c.m.c.c.JobListingController [http-nio-8080-exec-3] inside updateJobListing()
+2022-05-18 11:38:58,102 DEBUG c.m.c.s.JobListingService [http-nio-8080-exec-3] inside updateJobListing()
+2022-05-27 00:15:46,167 DEBUG c.m.c.c.JobListingController [http-nio-8080-exec-4] inside updateJobListing()
+2022-05-27 00:15:46,340 DEBUG c.m.c.s.JobListingService [http-nio-8080-exec-4] inside updateJobListing()
+2022-06-07 23:27:26,571 DEBUG c.m.c.c.JobListingController [http-nio-8080-exec-3] inside createJobListing()
+2022-06-07 23:27:26,572 DEBUG c.m.c.s.JobListingService [http-nio-8080-exec-3] inside createNewJobListing
+2022-06-07 23:28:56,702 DEBUG c.m.c.c.JobListingController [http-nio-8080-exec-4] inside deleteJobListing()
+2022-06-07 23:28:56,704 DEBUG c.m.c.s.JobListingService [http-nio-8080-exec-4] inside deleteJobListing
+2022-06-07 23:28:56,783 DEBUG c.m.c.s.JobListingService [http-nio-8080-exec-4] Deleted job listing with the given id
+2022-06-07 23:28:56,784 DEBUG c.m.c.s.JobListingService [http-nio-8080-exec-4] Inside deleteJobSeekersForJobId()
+2022-06-07 23:29:01,990 DEBUG c.m.c.c.JobListingController [http-nio-8080-exec-6] inside getAllJobs() 
+2022-06-07 23:29:01,992 DEBUG c.m.c.s.JobListingService [http-nio-8080-exec-6] inside getAllJobListing
+2022-06-07 23:29:02,011 DEBUG c.m.c.s.JobListingService [http-nio-8080-exec-6] Inside findJobListingByLocation()
+2022-06-07 23:29:08,232 DEBUG c.m.c.c.JobListingController [http-nio-8080-exec-7] inside createJobListing()
+2022-06-07 23:29:08,232 DEBUG c.m.c.s.JobListingService [http-nio-8080-exec-7] inside createNewJobListing
+2022-06-07 23:29:23,536 DEBUG c.m.c.c.JobListingController [http-nio-8080-exec-8] inside createJobListing()
+2022-06-07 23:29:23,539 DEBUG c.m.c.s.JobListingService [http-nio-8080-exec-8] inside createNewJobListing
+2022-06-07 23:29:53,158 DEBUG c.m.c.c.JobListingController [http-nio-8080-exec-9] inside createJobListing()
+2022-06-07 23:29:53,160 DEBUG c.m.c.s.JobListingService [http-nio-8080-exec-9] inside createNewJobListing
+2022-06-07 23:46:07,823 DEBUG c.m.c.c.JobListingController [http-nio-8080-exec-2] inside createJobListing()
+2022-06-07 23:46:07,824 DEBUG c.m.c.s.JobListingService [http-nio-8080-exec-2] inside createNewJobListing
+2022-06-07 23:46:22,109 DEBUG c.m.c.c.JobListingController [http-nio-8080-exec-3] inside createJobListing()
+2022-06-07 23:46:22,110 DEBUG c.m.c.s.JobListingService [http-nio-8080-exec-3] inside createNewJobListing
+2022-06-07 23:46:49,298 DEBUG c.m.c.c.JobListingController [http-nio-8080-exec-4] inside createJobListing()
+2022-06-07 23:46:49,298 DEBUG c.m.c.s.JobListingService [http-nio-8080-exec-4] inside createNewJobListing
+2022-06-07 23:52:03,942 DEBUG c.m.c.c.JobListingController [http-nio-8080-exec-3] inside createJobListing()
+2022-06-07 23:52:03,944 DEBUG c.m.c.s.JobListingService [http-nio-8080-exec-3] inside createNewJobListing
+2022-06-07 23:52:17,395 DEBUG c.m.c.c.JobListingController [http-nio-8080-exec-2] inside createJobListing()
+2022-06-07 23:52:17,396 DEBUG c.m.c.s.JobListingService [http-nio-8080-exec-2] inside createNewJobListing
+2022-06-07 23:56:20,364 DEBUG c.m.c.c.JobListingController [http-nio-8080-exec-2] inside createJobListing()
+2022-06-07 23:56:20,366 DEBUG c.m.c.s.JobListingService [http-nio-8080-exec-2] inside createNewJobListing
+2022-06-07 23:56:29,049 DEBUG c.m.c.c.JobListingController [http-nio-8080-exec-3] inside createJobListing()
+2022-06-07 23:56:29,050 DEBUG c.m.c.s.JobListingService [http-nio-8080-exec-3] inside createNewJobListing
+2022-06-07 23:56:47,859 DEBUG c.m.c.c.JobListingController [http-nio-8080-exec-4] inside createJobListing()
+2022-06-07 23:56:47,860 DEBUG c.m.c.s.JobListingService [http-nio-8080-exec-4] inside createNewJobListing
+2022-06-07 23:56:48,715 DEBUG c.m.c.c.JobListingController [http-nio-8080-exec-5] inside createJobListing()
+2022-06-07 23:56:48,717 DEBUG c.m.c.s.JobListingService [http-nio-8080-exec-5] inside createNewJobListing
+2022-06-07 23:59:37,459 DEBUG c.m.c.c.JobListingController [http-nio-8080-exec-2] inside createJobListing()
+2022-06-07 23:59:37,460 DEBUG c.m.c.s.JobListingService [http-nio-8080-exec-2] inside createNewJobListing
+2022-06-08 00:02:18,080 DEBUG c.m.c.c.JobListingController [http-nio-8080-exec-3] inside createJobListing()
+2022-06-08 00:02:18,083 DEBUG c.m.c.s.JobListingService [http-nio-8080-exec-3] inside createNewJobListing
+2022-06-08 00:06:17,299 DEBUG c.m.c.c.JobListingController [http-nio-8080-exec-3] inside createJobListing()
+2022-06-08 00:06:17,305 DEBUG c.m.c.s.JobListingService [http-nio-8080-exec-3] inside createNewJobListing
+2022-06-08 00:06:39,130 DEBUG c.m.c.c.JobListingController [http-nio-8080-exec-2] inside createJobListing()
+2022-06-08 00:06:39,131 DEBUG c.m.c.s.JobListingService [http-nio-8080-exec-2] inside createNewJobListing
+2022-07-30 23:43:19,861 DEBUG c.m.c.c.JobListingController [http-nio-8009-exec-1] inside getAllJobs() 
+2022-07-30 23:43:19,862 DEBUG c.m.c.s.JobListingService [http-nio-8009-exec-1] inside getAllJobListing
+2022-07-30 23:43:20,089 DEBUG c.m.c.s.JobListingService [http-nio-8009-exec-1] Inside findJobListingByLocation()
+2022-07-31 02:54:24,018 DEBUG c.m.c.c.JobListingController [http-nio-8009-exec-2] inside createJobListing()
+2022-07-31 02:54:24,020 DEBUG c.m.c.s.JobListingService [http-nio-8009-exec-2] inside createNewJobListing
+2022-07-31 02:54:24,152 DEBUG c.m.c.s.JobListingService [http-nio-8009-exec-2] inside createNewJobListing - saved the job. Posting the alert
+2022-07-31 02:54:24,152 DEBUG c.m.c.s.JobAlertProducer [http-nio-8009-exec-2] inside sendToPublishQueue
+2022-07-31 02:57:07,814 DEBUG c.m.c.c.JobListingController [http-nio-8009-exec-2] inside createJobListing()
+2022-07-31 02:57:07,819 DEBUG c.m.c.s.JobListingService [http-nio-8009-exec-2] inside createNewJobListing
+2022-07-31 02:57:07,906 DEBUG c.m.c.s.JobListingService [http-nio-8009-exec-2] inside createNewJobListing - saved the job. Posting the alert
+2022-07-31 02:57:07,906 DEBUG c.m.c.s.JobAlertProducer [http-nio-8009-exec-2] inside sendToPublishQueue
+2022-07-31 02:57:08,031 DEBUG c.m.c.s.JobAlertProducer [http-nio-8009-exec-2] Sent to queue name - NewJob job - Test job-Rabbit2
+2022-07-31 03:04:05,929 DEBUG c.m.c.c.JobListingController [http-nio-8009-exec-5] inside createJobListing()
+2022-07-31 03:04:05,932 DEBUG c.m.c.s.JobListingService [http-nio-8009-exec-5] inside createNewJobListing
+2022-07-31 03:04:05,991 DEBUG c.m.c.s.JobListingService [http-nio-8009-exec-5] inside createNewJobListing - saved the job. Posting the alert
+2022-07-31 03:04:05,992 DEBUG c.m.c.s.JobAlertProducer [http-nio-8009-exec-5] inside sendToPublishQueue
+2022-07-31 03:04:05,994 DEBUG c.m.c.s.JobAlertProducer [http-nio-8009-exec-5] Sent to queue name - NewJob job - Test job-Rabbit3
+2022-07-31 03:06:22,784 DEBUG c.m.c.c.JobListingController [http-nio-8009-exec-2] inside createJobListing()
+2022-07-31 03:06:22,785 DEBUG c.m.c.s.JobListingService [http-nio-8009-exec-2] inside createNewJobListing
+2022-07-31 03:06:22,861 DEBUG c.m.c.s.JobListingService [http-nio-8009-exec-2] inside createNewJobListing - saved the job. Posting the alert
+2022-07-31 03:06:22,861 DEBUG c.m.c.s.JobAlertProducer [http-nio-8009-exec-2] inside sendToPublishQueue
+2022-07-31 03:06:22,936 DEBUG c.m.c.s.JobAlertProducer [http-nio-8009-exec-2] Sent to queue name - NewJob job - Test job-Rabbit4
+2022-07-31 03:18:37,874 DEBUG c.m.c.c.JobListingController [http-nio-8009-exec-5] inside createJobListing()
+2022-07-31 03:18:37,877 DEBUG c.m.c.s.JobListingService [http-nio-8009-exec-5] inside createNewJobListing
+2022-07-31 03:18:37,936 DEBUG c.m.c.s.JobListingService [http-nio-8009-exec-5] inside createNewJobListing - saved the job. Posting the alert
+2022-07-31 03:18:37,937 DEBUG c.m.c.s.JobAlertProducer [http-nio-8009-exec-5] inside sendToPublishQueue
+2022-07-31 03:18:37,946 DEBUG c.m.c.s.JobAlertProducer [http-nio-8009-exec-5] Sent to queue name - NewJob job - Test job-Rabbit5
+2022-07-31 10:36:40,685 DEBUG c.m.c.c.JobListingController [http-nio-8009-exec-2] inside createJobListing()
+2022-07-31 10:36:40,690 DEBUG c.m.c.s.JobListingService [http-nio-8009-exec-2] inside createNewJobListing
+2022-07-31 10:36:40,847 DEBUG c.m.c.s.JobListingService [http-nio-8009-exec-2] inside createNewJobListing - saved the job. Posting the alert
+2022-07-31 10:36:40,847 DEBUG c.m.c.s.JobAlertProducer [http-nio-8009-exec-2] inside sendToPublishQueue
+2022-07-31 10:36:40,957 DEBUG c.m.c.s.JobAlertProducer [http-nio-8009-exec-2] Sent to queue name - NewJob job - Test job-Rabbit6
+2022-07-31 10:42:14,193 DEBUG c.m.c.c.JobListingController [http-nio-8009-exec-4] inside createJobListing()
+2022-07-31 10:42:14,201 DEBUG c.m.c.s.JobListingService [http-nio-8009-exec-4] inside createNewJobListing
+2022-07-31 10:42:14,313 DEBUG c.m.c.s.JobListingService [http-nio-8009-exec-4] inside createNewJobListing - saved the job. Posting the alert
+2022-07-31 10:42:14,314 DEBUG c.m.c.s.JobAlertProducer [http-nio-8009-exec-4] inside sendToPublishQueue
+2022-07-31 10:42:14,319 DEBUG c.m.c.s.JobAlertProducer [http-nio-8009-exec-4] Sent to queue name - NewJob job - Test job-Rabbit7
+2022-07-31 10:51:00,774 DEBUG c.m.c.c.JobListingController [http-nio-8009-exec-8] inside createJobListing()
+2022-07-31 10:51:00,780 DEBUG c.m.c.s.JobListingService [http-nio-8009-exec-8] inside createNewJobListing
+2022-07-31 10:51:00,890 DEBUG c.m.c.s.JobListingService [http-nio-8009-exec-8] inside createNewJobListing - saved the job. Posting the alert
+2022-07-31 10:51:00,890 DEBUG c.m.c.s.JobAlertProducer [http-nio-8009-exec-8] inside sendToPublishQueue
+2022-07-31 10:51:00,901 DEBUG c.m.c.s.JobAlertProducer [http-nio-8009-exec-8] Sent to queue name - NewJob job - Test job-Rabbit8
+2022-07-31 11:17:32,005 DEBUG c.m.c.c.JobListingController [http-nio-8009-exec-10] inside createJobListing()
+2022-07-31 11:17:32,029 DEBUG c.m.c.s.JobListingService [http-nio-8009-exec-10] inside createNewJobListing
+2022-07-31 11:17:32,239 DEBUG c.m.c.s.JobListingService [http-nio-8009-exec-10] inside createNewJobListing - saved the job. Posting the alert
+2022-07-31 11:17:32,239 DEBUG c.m.c.s.JobAlertProducer [http-nio-8009-exec-10] inside sendToPublishQueue
+2022-07-31 11:17:32,263 DEBUG c.m.c.s.JobAlertProducer [http-nio-8009-exec-10] Sent to queue name - NewJob job - Test job-Rabbit9
+2022-07-31 11:22:30,721 DEBUG c.m.c.c.JobListingController [http-nio-8009-exec-3] inside createJobListing()
+2022-07-31 11:22:30,725 DEBUG c.m.c.s.JobListingService [http-nio-8009-exec-3] inside createNewJobListing
+2022-07-31 11:22:30,776 DEBUG c.m.c.s.JobListingService [http-nio-8009-exec-3] inside createNewJobListing - saved the job. Posting the alert
+2022-07-31 11:22:30,776 DEBUG c.m.c.s.JobAlertProducer [http-nio-8009-exec-3] inside sendToPublishQueue
+2022-07-31 11:22:30,779 DEBUG c.m.c.s.JobAlertProducer [http-nio-8009-exec-3] Sent to queue name - NewJob job - Test job-Rabbit10
+2022-07-31 11:28:38,970 DEBUG c.m.c.c.JobListingController [http-nio-8009-exec-2] inside createJobListing()
+2022-07-31 11:28:38,971 DEBUG c.m.c.s.JobListingService [http-nio-8009-exec-2] inside createNewJobListing
+2022-07-31 11:28:39,073 DEBUG c.m.c.s.JobListingService [http-nio-8009-exec-2] inside createNewJobListing - saved the job. Posting the alert
+2022-07-31 11:28:39,073 DEBUG c.m.c.s.JobAlertProducer [http-nio-8009-exec-2] inside sendToPublishQueue
+2022-07-31 11:28:39,138 DEBUG c.m.c.s.JobAlertProducer [http-nio-8009-exec-2] Sent to queue name - NewJob job - Test job-Rabbit11
+2022-07-31 12:19:57,316 DEBUG c.m.c.c.JobListingController [http-nio-8009-exec-1] inside createJobListing()
+2022-07-31 12:19:57,318 DEBUG c.m.c.s.JobListingService [http-nio-8009-exec-1] inside createNewJobListing
+2022-07-31 12:19:57,439 DEBUG c.m.c.s.JobListingService [http-nio-8009-exec-1] inside createNewJobListing - saved the job. Posting the alert
+2022-07-31 12:19:57,439 DEBUG c.m.c.s.JobAlertProducer [http-nio-8009-exec-1] inside sendToPublishQueue
+2022-07-31 12:19:57,534 DEBUG c.m.c.s.JobAlertProducer [http-nio-8009-exec-1] Sent to queue name - NewJob job - Test job-Rabbit12
+2022-07-31 12:53:09,995 DEBUG c.m.c.c.JobListingController [http-nio-8009-exec-5] inside createJobListing()
+2022-07-31 12:53:10,005 DEBUG c.m.c.s.JobListingService [http-nio-8009-exec-5] inside createNewJobListing
+2022-07-31 12:53:10,162 DEBUG c.m.c.s.JobListingService [http-nio-8009-exec-5] inside createNewJobListing - saved the job. Posting the alert
+2022-07-31 12:53:10,164 DEBUG c.m.c.s.JobAlertProducer [http-nio-8009-exec-5] inside sendToPublishQueue
+2022-07-31 12:53:10,187 DEBUG c.m.c.s.JobAlertProducer [http-nio-8009-exec-5] Sent to queue name - NewJob job - Test job-Rabbit13
+2022-07-31 22:18:56,576 DEBUG c.m.c.c.JobListingController [http-nio-8009-exec-7] inside createJobListing()
+2022-07-31 22:18:56,597 DEBUG c.m.c.s.JobListingService [http-nio-8009-exec-7] inside createNewJobListing
+2022-07-31 22:18:56,792 DEBUG c.m.c.s.JobListingService [http-nio-8009-exec-7] inside createNewJobListing - saved the job. Posting the alert
+2022-07-31 22:18:56,792 DEBUG c.m.c.s.JobAlertProducer [http-nio-8009-exec-7] inside sendToPublishQueue
+2022-07-31 22:18:56,815 DEBUG c.m.c.s.JobAlertProducer [http-nio-8009-exec-7] Sent to queue name - NewJob job - Administrator

@@ -1,4 +1,4 @@
-rootProject.name = 'careers-portal-new'
-include 'careers-portal-service'
-include 'careers-portal-contract'
+rootProject.name = 'job-listing'
+include 'job-listing-service'
+include 'job-listing-contract'
 
